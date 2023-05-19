@@ -20,7 +20,7 @@ Step 5, In Terminal in Mac or cmd.exe in Windows, run midiPorts.js to get a list
        
        C: type "node midiPorts.js" (without quotes) and hit enter This will list all of the MIDI ports on your computer.
 
-Step 6, Copy the desired port number to the the 8th line of the config.json file (inside quotations)
+Step 6, Copy the desired MIDI port number to the the 8th line of the config.json file (inside quotations)
 
 Step 7, In Terminal/cmd, type "node mcMIDI.js" to run the script. Syntax for chat messages and command blocks below.
 
