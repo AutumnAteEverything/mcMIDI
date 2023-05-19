@@ -8,7 +8,7 @@ Step 1, Install node.js if you haven't already. https://nodejs.org/en
 
 Step 2, Open your Minecraft world.
 
-Step 3, Open the  Minecraft world to LAN (hit ESC, select "Open to LAN", select "Creative" and "Allow Cheats").
+Step 3, Open the  Minecraft world to LAN (hit ESC, select "Open to LAN", select "Creative" and "Allow Cheats"). Minecraft will display a port number in the chat.
 
 Step 4, Copy the given port number the 4th line of the config.json file (inside quotations)
 
