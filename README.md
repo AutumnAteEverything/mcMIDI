@@ -13,14 +13,15 @@ Step 3, Open the  Minecraft world to LAN (hit ESC, select "Open to LAN", select 
 Step 4, Copy the given port number the 4th line of the config.json file (inside quotations)
 
 Step 5, In Terminal in Mac or cmd.exe in Windows, run midiPorts.js to get a list of MIDI ports connected to your computer.
-       A: type cd and drag the project folder into the command line. Hit enter. 
-       B: type "node midiPorts.js" without quotes and hit enter This will list all of the MIDI ports on your computer.
+       A: type "cd" (without quotes) and drag the project folder into the command line. Hit enter. 
+       B: type "npm install" (without quotes) to download dependencies. Hit enter.
+       B: type "node midiPorts.js" (without quotes) and hit enter This will list all of the MIDI ports on your computer.
 
 Step 6, Copy the desired port number to the the 8th line of the config.json file (inside quotations)
 
 Step 7, In Terminal/cmd, type "node mcMIDI.js" to run the script. Syntax for chat messages and command blocks below.
 
-
+----------------
 
 Minecraft Chat syntax (don't include quotes):
 -- For note of specified duration: "duration 5 64 100 2000"
