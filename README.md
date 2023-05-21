@@ -2,7 +2,8 @@
  Send MIDI notes and CC ramps from Minecraft using chat/command blocks.
 
 This script can use Minecraft chat messages to create MIDI note and CC messages
-Tested and working on Minecraft Java Edition 1.19.2
+Tested and working on Minecraft Java Edition 1.19.2.
+Note: I haven't had any luck installing the MIDI Node Package on Windows. This has unfortunately prevented me from getting this project to work in a Windows environment.
  
 Step 1, Install node.js if you haven't already. https://nodejs.org/en 
 
