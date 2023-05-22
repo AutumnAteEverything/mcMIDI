@@ -5,15 +5,15 @@ This script can use Minecraft chat messages to create MIDI note and CC messages
 Tested and working on Minecraft Java Edition 1.19.2.
 Note: I haven't had any luck installing the MIDI Node Package on Windows. This has unfortunately prevented me from getting this project to work in a Windows environment.
  
-Step 1, Install node.js if you haven't already. https://nodejs.org/en 
+Step 1: Install node.js if you haven't already. https://nodejs.org/en 
 
-Step 2, Open your Minecraft world.
+Step 2: Open your Minecraft world.
 
-Step 3, Open the  Minecraft world to LAN (hit ESC, select "Open to LAN", select "Creative" and "Allow Cheats"). Minecraft will display a port number in the chat.
+Step 3: Open the  Minecraft world to LAN (hit ESC, select "Open to LAN", select "Creative" and "Allow Cheats"). Minecraft will display a port number in the chat.
 
-Step 4, Copy the given port number the 4th line of the config.json file (inside quotations)
+Step 4: Copy the given port number the 4th line of the config.json file (inside quotations)
 
-Step 5, In Terminal in Mac or cmd.exe in Windows, run midiPorts.js to get a list of MIDI ports connected to your computer.
+Step 5: In Terminal in Mac or cmd.exe in Windows, run midiPorts.js to get a list of MIDI ports connected to your computer.
       
 ⋅⋅⋅A: type ```cd``` and drag the project folder into the command line. Hit enter. 
 
@@ -21,9 +21,9 @@ Step 5, In Terminal in Mac or cmd.exe in Windows, run midiPorts.js to get a list
 
 ⋅⋅⋅C: type ```node midiPorts.js``` and hit enter This will list all of the MIDI ports on your computer.
 
-Step 6, Copy the desired MIDI port number to the the 8th line of the config.json file (inside quotations)
+Step 6: Copy the desired MIDI port number to the the 8th line of the config.json file (inside quotations)
 
-Step 7, In Terminal/cmd, type ```node mcMIDI.js``` to run the script. Syntax for chat messages and command blocks below.
+Step 7: In Terminal/cmd, type ```node mcMIDI.js``` to run the script. Syntax for chat messages and command blocks below.
 
 ----------------
 
