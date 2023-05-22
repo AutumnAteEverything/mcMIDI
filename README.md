@@ -44,4 +44,4 @@ Use the following syntax to create MIDI messages with command blocks (note the i
 ```/execute as @p[name=MIDIbot] at @p run say duration 11 60 100 1000```
 Note, the username of your Mineflayer bot needs to match in this command. Replace "MIDIbot" on servers.
 
-<a href="https://studentuml-my.sharepoint.com/:u:/g/personal/ramon_castillo_uml_edu/ETH6QMwhRE9Nrr_e23zhBQcBu7v0h86EtKEBeozfeQfqXQ?e=LijJKb" target="_blank">Download a demo Minecraft world</a> that sends MIDI notes on channels 1 through 6 (drums on channel 6), and a MIDI CC ramp on controller #5 on channel 11. See the video at [placeholder] for details.
+<a href="https://studentuml-my.sharepoint.com/:u:/g/personal/ramon_castillo_uml_edu/EYFO-JoZkGVOvSJiqNFIhDkBk35ecTdy-Crg59YoTxapxQ?e=AQarZ4" target="_blank">Download a demo Minecraft world</a> that sends MIDI notes on channels 1 through 6 (drums on channel 6), and a MIDI CC ramp on controller #5 on channel 11. See the video at [placeholder] for details.
