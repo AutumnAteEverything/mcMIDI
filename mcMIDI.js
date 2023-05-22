@@ -116,7 +116,7 @@ function numberRamp(channel, cc, start, end, duration) { // generates data ramp 
 }
 
 function sendCC(channel, cc, value) { // Creates the MIDI CC messages
-  output.sendMessage([0xB0 + channel, cc, value]);
+  output.sendMessage([0xB0 + channel - 1, cc, value]); // no idea why I need to subtract 1 from the channel
   console.log(channel, cc, value);
 }
 
