@@ -28,7 +28,7 @@ Step 7, In Terminal/cmd, type "node mcMIDI.js" to run the script. Syntax for cha
 ----------------
 
 Minecraft Chat syntax (don't include quotes):
--- For note of specified duration: '''duration 5 64 100 2000'''
+-- For note of specified duration: ```duration 5 64 100 2000```
         will create the MIDI note# 64 on channel 5 with a velocity of 100 and a duration of 2000 ms
 
 -- for note on messages: "on 3 36 80" 
