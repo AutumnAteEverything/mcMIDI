@@ -45,7 +45,3 @@ Use the following syntax to create MIDI messages with command blocks (note the i
 Note, the username of your Mineflayer bot needs to match in this command. Replace "MIDIbot" on servers.
 
 <a href="https://studentuml-my.sharepoint.com/:u:/g/personal/ramon_castillo_uml_edu/ETH6QMwhRE9Nrr_e23zhBQcBu7v0h86EtKEBeozfeQfqXQ?e=LijJKb" target="_blank">Download a demo Minecraft world</a> that sends MIDI notes on channels 1 through 5, and a MIDI CC ramp on controller #5 on channel 11. See the video at [placeholder] for details.
-https://studentuml-my.sharepoint.com/:u:/g/personal/ramon_castillo_uml_edu/ETH6QMwhRE9Nrr_e23zhBQcBu7v0h86EtKEBeozfeQfqXQ?e=LijJKb
-
-
-<a href="https://studentuml-my.sharepoint.com/:u:/g/personal/ramon_castillo_uml_edu/ETH6QMwhRE9Nrr_e23zhBQcBu7v0h86EtKEBeozfeQfqXQ?e=LijJKb" target="_blank">Download a demo Minecraft world</a>
