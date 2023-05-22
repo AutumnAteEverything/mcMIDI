@@ -15,11 +15,11 @@ Step 4, Copy the given port number the 4th line of the config.json file (inside 
 
 Step 5, In Terminal in Mac or cmd.exe in Windows, run midiPorts.js to get a list of MIDI ports connected to your computer.
       
-A: type ```cd``` and drag the project folder into the command line. Hit enter. 
+⋅⋅⋅A: type ```cd``` and drag the project folder into the command line. Hit enter. 
 
-B: type ```npm install``` to download dependencies. Hit enter.
+⋅⋅⋅B: type ```npm install``` to download dependencies. Hit enter.
 
-C: type ```node midiPorts.js``` and hit enter This will list all of the MIDI ports on your computer.
+⋅⋅⋅C: type ```node midiPorts.js``` and hit enter This will list all of the MIDI ports on your computer.
 
 Step 6, Copy the desired MIDI port number to the the 8th line of the config.json file (inside quotations)
 
