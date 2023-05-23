@@ -27,7 +27,7 @@ Step 7: In Terminal/cmd, type ```node mcMIDI.js``` to run the script. Syntax for
 
 ----------------
 
-Minecraft Chat syntax:
+### Minecraft Chat syntax:
 -- For note of specified duration: ```duration 5 64 100 2000```
         will create the MIDI note# 64 on channel 5 with a velocity of 100 and a duration of 2000 ms
 
@@ -44,4 +44,9 @@ Use the following syntax to create MIDI messages with command blocks (note the i
 ```/execute as @p[name=MIDIbot] at @p run say duration 11 60 100 1000```
 Note, the username of your Mineflayer bot needs to match in this command. Replace "MIDIbot" on servers.
 
-<a href="https://studentuml-my.sharepoint.com/:u:/g/personal/ramon_castillo_uml_edu/EYFO-JoZkGVOvSJiqNFIhDkBk35ecTdy-Crg59YoTxapxQ?e=AQarZ4" target="_blank">Download a demo Minecraft world</a> that sends MIDI notes on channels 1 through 6 (drums on channel 6), and a MIDI CC ramp on controller #5 on channel 11. See the video at [placeholder] for details.
+<a href="https://drive.google.com/file/d/1Fp1YAVzF87AyKQB-YXUimaEOU8qy0HyQ/view?usp=share_link" target="_blank">Download a demo Minecraft world</a> that sends MIDI notes on channels 1 through 6 (drums on channel 6), and a MIDI CC ramp on controller #5 on channel 11. 
+
+See the YouTube video for more details.
+
+<a href="https://youtu.be/IPcciQsvGSE" target="_blank"><img src="http://img.youtube.com/vi/IPcciQsvGSE/0.jpg" 
+alt="mcMIDI Demo Video" width="480" height="360" border="0" /></a>
