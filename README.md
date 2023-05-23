@@ -46,7 +46,7 @@ Note, the username of your Mineflayer bot needs to match in this command. Replac
 
 <a href="https://drive.google.com/file/d/1Fp1YAVzF87AyKQB-YXUimaEOU8qy0HyQ/view?usp=share_link" target="_blank">Download a demo Minecraft world</a> that sends MIDI notes on channels 1 through 6 (drums on channel 6), and a MIDI CC ramp on controller #5 on channel 11. 
 
-See the YouTube video for more details.
+See the <a href="https://youtu.be/IPcciQsvGSE" target="_blank">YouTube video</a> for more details.
 
 <a href="https://youtu.be/IPcciQsvGSE" target="_blank"><img src="http://img.youtube.com/vi/IPcciQsvGSE/0.jpg" 
 alt="mcMIDI Demo Video" width="480" height="360" border="0" /></a>
